@@ -1,0 +1,30 @@
+{
+   "collapseKey":"push",
+   "data":{
+      "ejson":{
+         "host":"http://172.16.53.80:3000/",
+         "messageId":"w3vn6QhHW5vRaprf8",
+         "notificationType":"message",
+         "rid":"65729e3978f6dc950a657ebb",
+         "sender":{
+            "_id":"6RqZQjExoYXsSABH2",
+            "username":"dhha83",
+            "name":"하덕호"
+         },
+         "senderName":"dhha83",
+         "type":"p",
+         "name":"asd"
+      },
+      "image":"http://172.16.53.80:3000/images/logo/android-chrome-192x192.png",
+      "message":"dhha83: asdf",
+      "msgcnt":"4",
+      "notId":"-1733363116",
+      "soundname":"default",
+      "style":"inbox",
+      "title":"#asd"
+   },
+   "from":"42987056186",
+   "messageId":"0:1702010552550260%cacdd0630034af1a",
+   "sentTime":1702010552539,
+   "ttl":2419200
+}

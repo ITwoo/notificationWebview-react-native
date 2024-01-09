@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "42987056186",
+    "project_id": "rocketchat-a9162",
+    "storage_bucket": "rocketchat-a9162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:a377f941419f706a3e9903",
+        "android_client_info": {
+          "package_name": "chat.rocket.reactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:50e26b790105cd543e9903",
+        "android_client_info": {
+          "package_name": "com.noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:c0f72cf6f0b794233e9903",
+        "android_client_info": {
+          "package_name": "com.notifee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:f7dbc7c08a5de2ca3e9903",
+        "android_client_info": {
+          "package_name": "com.notithree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:37e42074feac779b3e9903",
+        "android_client_info": {
+          "package_name": "com.notitwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42987056186:android:79e295812d5a065f3e9903",
+        "android_client_info": {
+          "package_name": "com.rocketchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDi51P_Aj0Vk62AtZU0sebJChHu5gNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
