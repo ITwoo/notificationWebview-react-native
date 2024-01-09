@@ -1,5 +1,5 @@
 export const config = {
-    appName: 'com.notifee',
+    appName: 'com.korensEm',
     baseDomain:'.172.16.53.48',
     uri: "http://172.16.53.48",
     login_url: "http://172.16.53.48:11061/api/v1/auth/login",
