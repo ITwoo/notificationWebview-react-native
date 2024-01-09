@@ -1,4 +1,4 @@
-package com.notifee;
+package com.korensEm;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

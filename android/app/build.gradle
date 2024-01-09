@@ -74,9 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.notifee"
+    namespace "com.korensEm"
     defaultConfig {
-        applicationId "com.notifee"
+        applicationId "com.korensEm"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2

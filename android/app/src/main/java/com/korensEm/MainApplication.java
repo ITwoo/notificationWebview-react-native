@@ -1,4 +1,4 @@
-package com.notifee;
+package com.korensEm;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
